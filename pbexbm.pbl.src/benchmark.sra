@@ -86,4 +86,4 @@ sREGKEY = "HKEY_CURRENT_USER\Software\Sybase\PowerBuilder\" + sVERSION
 
 Open(w_benchmark)
 end event
-// kk1623
+//aaaaaa
